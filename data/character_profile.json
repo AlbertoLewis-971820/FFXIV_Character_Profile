@@ -1,12 +1,19 @@
 [
     {
-        "name": "test",
-        "server": "test",
-        "race": "test"
-    },
-    {
         "name": "Mitsukane Godo",
         "server": "Diablos",
-        "race": "AuRa"
+        "race": "AuRa",
+        "jobs": [
+            {
+                "job_name": "Miner ",
+                "level": "100",
+                "job_type": "Gatherer"
+            },
+            {
+                "job_name": "Goldsmith",
+                "level": "50",
+                "job_type": "Crafter"
+            }
+        ]
     }
 ]
